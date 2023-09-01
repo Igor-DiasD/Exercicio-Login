@@ -5,6 +5,8 @@
 body{
     font-family:Arial, Helvetica, sans-serif;
     background-color: beige;
+    display: flex;
+    min-height: 700px;
 }
 
 #body{
